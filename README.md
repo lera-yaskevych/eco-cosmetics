@@ -15,5 +15,5 @@ Moreover, the code is fairly simple to maintain, since it is based on BEM method
 - Run `npm install` in your terminal
 - Run `npm start`
 ## Troubleshooting
-For any suggestions or error reports contact me via [Telegram](https://t.me/redrum_back)
+For any suggestions or error reports contact me via [Telegram](https://t.me/lera_yaskevych)
 
